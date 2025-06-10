@@ -12,7 +12,7 @@ pandas
 textstat
 seaborn
 lime
-scikit-learn
+scikit-learn==1.6.0
 wordcloud
 spacy
 spacy_streamlit
